@@ -24,10 +24,8 @@ An aspiring developer with a strong foundation in web technologies, eager to inn
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 
-### 📫 Connect with me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/harini-r-r-41711023a)
-- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/HariniRR)
-- 📧 harinirajmohan55@gmail.com
+### reach me
+📧 harinirajmohan55@gmail.com
 
 ### 📊 GitHub Stats
 ![Harini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariniRR&show_icons=true&theme=radical)
