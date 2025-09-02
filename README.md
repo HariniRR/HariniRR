@@ -1,4 +1,4 @@
-###  Hi 👋! I'm Harini R R
+###  Hi! I'm Harini R R
 An aspiring developer with a foundation in web technologies, eager to innovate, learn and grow in the field of software development.
 - 💻 BE CSE @ Vivekanandha College of Engineering for Women
 - 🌱 Currently learning and practicing Java and Python
